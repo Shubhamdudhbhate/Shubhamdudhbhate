@@ -53,7 +53,7 @@ I am a **Second Year Information Technology Student at VJTI, Mumbai**. My core f
 
 ### 🚀 Featured Projects
 
-#### 1. [⚖️ NyaySutra - Blockchain Evidence Management](https://github.com/Shubhamdudhbhate/PUT-REPO-NAME-HERE)
+#### 1. [⚖️ NyaySutra - Blockchain Evidence Management](https://github.com/Shubhamdudhbhate/NayaSutra_Inheritance)
 > **Status:** 🚧 Active Development | **Role:** Full Stack & Smart Contract Developer
 
 **The Problem:** Traditional court systems suffer from delayed proceedings and the risk of evidence tampering.  
