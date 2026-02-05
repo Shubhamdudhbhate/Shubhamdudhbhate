@@ -65,7 +65,7 @@ I am a **Second Year Information Technology Student at VJTI, Mumbai**. My core f
 
 <br>
 
-#### 2. [💧 Ingress AI - Groundwater Assistant (SIH 2025)](https://github.com/Shubhamdudhbhate/PUT-REPO-NAME-HERE)
+#### 2. [💧 Ingress AI - Groundwater Assistant (SIH 2025)](https://github.com/Shubhamdudhbhate/SIH-WATER)
 > **Status:** 🏆 SIH 2025 Team Yuvachetna | **Role:** AI/ML Engineer
 
 [cite_start]**The Problem:** Groundwater data is often locked in complex, scattered PDF reports, making it inaccessible to researchers and the public[cite: 35, 46].  
