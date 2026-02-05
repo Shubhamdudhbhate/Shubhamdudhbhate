@@ -29,7 +29,7 @@ I am a **Second Year Information Technology Student at VJTI, Mumbai**. My core f
 
 - 🔭 **Currently Working On:** Developing full-stack web applications and training **ML/AI models** for the SIH 2025 hackathon.
 - 👯 **Collaboration:** Open to projects involving **React/Node.js** development or **AI integration**.
-- 🤝 **Skills:** Strong foundation in **C++**, **Python** (AI/ML Libraries), and the **MERN Stack**.
+- 🤝 **Skills:** Strong foundation in **C++**, **Python** (AI/ML Libraries).
 - 🌱 **Learning:** Deep Learning architectures, Generative AI, and Advanced App Development.
 - 💬 **Ask Me About:** Web Development, Machine Learning algorithms, and C++ logic.
 
