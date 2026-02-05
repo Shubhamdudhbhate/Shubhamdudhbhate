@@ -3,14 +3,11 @@
 </div>
 
 <div align="center">
-  <a href="https://bsky.app/profile/Shubhamdudhbhate">
-    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" />
+  <a href="https://www.linkedin.com/in/shubham-dudhbhate-77065a328/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
@@ -27,7 +24,7 @@
 
 I am a **Second Year Information Technology Student at VJTI, Mumbai**. My core focus is on **App/Web Development** and **Artificial Intelligence**. I love building applications that solve real-world problems using modern web tech and machine learning.
 
-- 🔭 **Currently Working On:** Developing full-stack web applications and training **ML/AI models** .
+- 🔭 **Currently Working On:** Developing full-stack web applications and training **ML/AI models** for the SIH 2025 hackathon.
 - 👯 **Collaboration:** Open to projects involving **React/Node.js** development or **AI integration**.
 - 🤝 **Skills:** Strong foundation in **C++**, **Python** (AI/ML Libraries).
 - 🌱 **Learning:** Deep Learning architectures, Generative AI, and Advanced App Development.
@@ -56,30 +53,38 @@ I am a **Second Year Information Technology Student at VJTI, Mumbai**. My core f
 
 ### 🚀 Featured Projects
 
-#### 1. ⚖️ NyaySutra - Blockchain Evidence Management
-> *Status: 🚧 Active Development*
+#### 1. [⚖️ NyaySutra - Blockchain Evidence Management](https://github.com/Shubhamdudhbhate/PUT-REPO-NAME-HERE)
+> **Status:** 🚧 Active Development | **Role:** Full Stack & Smart Contract Developer
 
-A full-stack Web3 application designed to digitize court workflows. It leverages **Ethereum Smart Contracts** to ensure legal evidence remains immutable and secure.
-* **Tech Stack:** `React` `Node.js` `Solidity` `Supabase`
-* **Key Features:** Secure Evidence Vault, Role-Based Access Control, and Wallet Integration.
+**The Problem:** Traditional court systems suffer from delayed proceedings and the risk of evidence tampering.  
+**The Solution:** A decentralized judicial management system that uses **Ethereum Smart Contracts** to create an immutable ledger for legal evidence. This ensures that once evidence is uploaded, it cannot be altered by anyone—not even the administrators.
 
----
+* **Evidence Vault:** Uses cryptographic hashing to secure digital evidence files (documents, audio, video).
+* **Role-Based Access (RBAC):** Smart contracts enforce strict permissions, ensuring only assigned Judges and Lawyers can access sensitive case files.
+* **Tech Stack:** `React.js` `Node.js` `Solidity` `Foundry` `Supabase` `Metamask`
 
-#### 2. 💧 AI Groundwater Assistant (Ingress Chatbot)
-> *Status: 🏆 SIH 2025 (Team Yuvachetna)*
+<br>
 
-An intelligent AI chatbot designed to solve the lack of accessible groundwater data. It uses **RAG (Retrieval-Augmented Generation)** to transform PDF reports into instant insights.
-* **Tech Stack:** `Python` `LLM (GPT)` `RAG` `Vector DB`
-* **Key Features:** Instant Q&A from PDFs, Visual Data Generation, and Scalable Backend.
+#### 2. [💧 Ingress AI - Groundwater Assistant (SIH 2025)](https://github.com/Shubhamdudhbhate/PUT-REPO-NAME-HERE)
+> **Status:** 🏆 SIH 2025 Team Yuvachetna | **Role:** AI/ML Engineer
 
----
+[cite_start]**The Problem:** Groundwater data is often locked in complex, scattered PDF reports, making it inaccessible to researchers and the public[cite: 35, 46].  
+[cite_start]**The Solution:** An intelligent chatbot powered by a **120B+ Parameter Open Source Model (GPT OSS)** and **RAG (Retrieval-Augmented Generation)**[cite: 47, 60]. It parses static PDF documents to generate instant, visual insights.
 
-#### 3. 🎓 VJTI MSI Portal
-> *Status: 🚀 Completed (DTI Final Project)*
+* [cite_start]**Visual Intelligence:** Automatically generates year-wise trend graphs and location-specific groundwater maps from raw text[cite: 19, 48].
+* [cite_start]**Actionable Insights:** Transforms complex hydro-geological data into simple answers for policymakers and citizens[cite: 39, 52].
+* **Tech Stack:** `Python` `LangChain` `Vector DB (RAG)` `Ollama` `LLM`
 
-A comprehensive student management system tailored for VJTI's academic needs. This was my first major team project.
-* **Tech Stack:** `HTML/CSS` `JavaScript` `PHP` `SQL`
-* **Key Features:** Student Dashboard, Course Registration, and Centralized Resource Download Center.
+<br>
+
+#### 3. [🎓 VJTI MSI Portal - Student Management System](https://github.com/Shubhamdudhbhate/PUT-REPO-NAME-HERE)
+> **Status:** 🚀 Completed (DTI Final Project) | **Role:** Frontend & Database Logic
+
+**The Project:** This was my first major team project, built to solve the administrative hassle of managing student records manually. We created a centralized digital portal for the VJTI academic department.
+
+* **Student Dashboard:** A personalized view for students to track attendance, grades, and upcoming notices.
+* **Resource Center:** A centralized download hub for syllabus copies, previous year question papers, and academic calendars.
+* **Tech Stack:** `HTML5/CSS3` `JavaScript` `PHP` `MySQL`
 
 ---
 
