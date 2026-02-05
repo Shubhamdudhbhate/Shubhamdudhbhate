@@ -77,7 +77,7 @@ I am a **Second Year Information Technology Student at VJTI, Mumbai**. My core f
 
 <br>
 
-#### 3. [🎓 VJTI MSI Portal - Student Management System](https://github.com/Shubhamdudhbhate/PUT-REPO-NAME-HERE)
+#### 3. [🎓 VJTI MSI Portal - Student Management System](https://github.com/Shubhamdudhbhate/Vjti-MIS-Portal-Frontend-Project)
 > **Status:** 🚀 Completed (DTI Final Project) | **Role:** Frontend & Database Logic
 
 **The Project:** This was my first major team project, built to solve the administrative hassle of managing student records manually. We created a centralized digital portal for the VJTI academic department.
