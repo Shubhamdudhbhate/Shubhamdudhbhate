@@ -37,7 +37,10 @@ I am a **Second Year Information Technology Student at VJTI, Mumbai**. My core f
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+<details>
+  <summary><b>Click to expand my full technical arsenal ⚡</b></summary>
+  <br>
+  <div align="center">
 
 | **Category** | **Technologies** |
 |:---:|:---|
@@ -46,7 +49,8 @@ I am a **Second Year Information Technology Student at VJTI, Mumbai**. My core f
 | **Backend & DB** | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) |
 | **AI & ML** | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
 
-</div>
+  </div>
+</details>
 
 ---
 
