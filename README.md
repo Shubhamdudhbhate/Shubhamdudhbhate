@@ -53,31 +53,7 @@ I am a **Second Year Information Technology Student at VJTI, Mumbai**. My core f
 
 ### 🚀 Featured Projects
 
-#### 1. [⚖️ NyaySutra - Blockchain Evidence Management](https://github.com/Shubhamdudhbhate/NayaSutra_Inheritance)
-> **Status:** 🚧 Active Development | **Role:** Full Stack & Smart Contract Developer
-
-**The Problem:** Traditional court systems suffer from delayed proceedings and the risk of evidence tampering.  
-**The Solution:** A decentralized judicial management system that uses **Ethereum Smart Contracts** to create an immutable ledger for legal evidence. This ensures that once evidence is uploaded, it cannot be altered by anyone—not even the administrators.
-
-* **Evidence Vault:** Uses cryptographic hashing to secure digital evidence files (documents, audio, video).
-* **Role-Based Access (RBAC):** Smart contracts enforce strict permissions, ensuring only assigned Judges and Lawyers can access sensitive case files.
-* **Tech Stack:** `React.js` `Node.js` `Solidity` `Foundry` `Supabase` `Metamask`
-
-<br>
-
-#### 2. [💧 Ingress AI - Groundwater Assistant (SIH 2025)](https://github.com/Shubhamdudhbhate/SIH-WATER)
-> **Status:** 🏆 SIH 2025 Team Yuvachetna | **Role:** AI/ML Engineer
-
-[cite_start]**The Problem:** Groundwater data is often locked in complex, scattered PDF reports, making it inaccessible to researchers and the public[cite: 35, 46].  
-[cite_start]**The Solution:** An intelligent chatbot powered by a **120B+ Parameter Open Source Model (GPT OSS)** and **RAG (Retrieval-Augmented Generation)**[cite: 47, 60]. It parses static PDF documents to generate instant, visual insights.
-
-* [cite_start]**Visual Intelligence:** Automatically generates year-wise trend graphs and location-specific groundwater maps from raw text[cite: 19, 48].
-* [cite_start]**Actionable Insights:** Transforms complex hydro-geological data into simple answers for policymakers and citizens[cite: 39, 52].
-* **Tech Stack:** `Python` `LangChain` `Vector DB (RAG)` `Ollama` `LLM`
-
-<br>
-
-#### 3. [🎓 VJTI MSI Portal - Student Management System](https://github.com/Shubhamdudhbhate/Vjti-MIS-Portal-Frontend-Project)
+#### 1. [🎓 VJTI MSI Portal - Student Management System](https://github.com/Shubhamdudhbhate/Vjti-MIS-Portal-Frontend-Project)
 > **Status:** 🚀 Completed (DTI Final Project) | **Role:** Frontend & Database Logic
 
 **The Project:** This was my first major team project, built to solve the administrative hassle of managing student records manually. We created a centralized digital portal for the VJTI academic department.
